@@ -16,5 +16,5 @@ def pt():
 
 for i in range(100):
 	pt()
-
-
+for i in range(10):
+	print("小狗")
